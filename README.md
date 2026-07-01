@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Course](https://img.shields.io/badge/course-STA%203040A-8A2BE2)](#)
 
-> Part of the **STA 3040A – Mathematical Modeling and Simulation** coursework. This repository walks through the construction of deterministic epidemic models — starting from a simple two-compartment Infected–Recovered (IR) model and building up to a full Susceptible–Infected–Recovered (SIR) model with vaccination interventions and critical vaccination threshold analysis.
+> Part of the **Mathematical Modeling and Simulation** coursework. This repository walks through the construction of deterministic epidemic models — starting from a simple two-compartment Infected–Recovered (IR) model and building up to a full Susceptible–Infected–Recovered (SIR) model with vaccination interventions and critical vaccination threshold analysis.
 
 ---
 
@@ -97,7 +97,7 @@ flowchart LR
 
 ---
 
-## 🧬 Models Covered
+## Models Covered
 
 ### 1. IR Model (Infected → Recovered)
 
@@ -281,7 +281,7 @@ install.packages(c("deSolve", "tidyverse", "DiagrammeR"))
 
 ## Author & License
 
-Developed as part of **STA 3040A – Mathematical Modeling and Simulation** coursework.
+Developed as part of **Mathematical Modeling and Simulation** coursework.
 
 This project is licensed under the [MIT License](LICENSE) — feel free to use, modify, and share with attribution.
 
