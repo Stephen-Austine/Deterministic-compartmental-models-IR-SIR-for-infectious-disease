@@ -6,7 +6,6 @@
 [![deSolve](https://img.shields.io/badge/package-deSolve-blue)](https://cran.r-project.org/package=deSolve)
 [![tidyverse](https://img.shields.io/badge/package-tidyverse-1A162D?logo=tidyverse&logoColor=white)](https://www.tidyverse.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Course](https://img.shields.io/badge/course-STA%203040A-8A2BE2)](#)
 
 > Part of the **Mathematical Modeling and Simulation** coursework. This repository walks through the construction of deterministic epidemic models — starting from a simple two-compartment Infected–Recovered (IR) model and building up to a full Susceptible–Infected–Recovered (SIR) model with vaccination interventions and critical vaccination threshold analysis.
 
