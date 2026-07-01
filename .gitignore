@@ -1,0 +1,11 @@
+.DS_Store
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+*.Rhistory
+*.RData
+*.Rproj.user
+*.Ruserdata
+__pycache__/
